@@ -1,5 +1,5 @@
 # <center> Installation unter Linux
->1. Installiere dir den FiveM-Installer von Twe3x: https://github.com/Twe3x/fivem-installer
+>1. Dieses Tutorial baut auf dem FiveM-Installer von Twe3x auf: https://github.com/Twe3x/fivem-installer
 >2. Verbinde dich nun mit deinem Server
 >3. Führe folgenden Command aus: ``` bash <(curl -s https://raw.githubusercontent.com/Twe3x/fivem-installer/main/setup.sh) ``` 
 >4. Anschließend wirst du durch ein Setup geleitet. Du steuerst alles mit den Pfeiltasten
@@ -10,3 +10,5 @@
 >9. Verifiziere dich mit dem gezeigten vierstelligen Pin (Schritt 6)
 >10. Durchlaufe anschließend das TX-Admin Setup
 >11. Beachte: Du musst die Datenbank Einstellungen im Setup anpassen. Drücke hierfür an richtiger Stelle auf <b>"Show/Hide Database information"</b> und passe die Daten an.
+
+> Danke an Twe3x für die Bereitstellung des Installers <3
